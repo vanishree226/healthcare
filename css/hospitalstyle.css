@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+video{
+    position: absolute;
+    width: 100%;
+}
+.navbar-nav a{ 
+    color: #fff;
+    margin-left: 40px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight:bold;
+    letter-spacing: 2px;
+}
+.navbar-light .navbar-brand span{
+    color:#266bf5;
+}
+
+.navbar .appbtn{
+    background:#1977cc;
+    margin-right: 1px;
+    border-radius: 4px;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    line-height: 2.3;
+}
+.content{
+    position: absolute;
+    margin:90px ;
+}
+.content h3{
+    color: rgb(11, 12, 12);
+    font-size:40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content p{
+    font-weight: 500;
+    color: rgb(9, 9, 9);
+}
+.content h2{
+    text-decoration: underline;
+}
